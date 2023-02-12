@@ -22,21 +22,19 @@
     
     
   <a href="https://github.com/REDZEOX/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
+    <img src="https://img.shields.io/github/stars/REDZEOX/Atlas-MD?style=social">
   </a>
 
 <br>
 
-<a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
+<a href="https://github.com/REDZEOX/Atlas-MD">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/REDZEOX/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
-  
-      
-<h4 align="center"> Deploy on Railway - ( YouTube Tutorial Included )
+   
+<h4 Deploy on Railway - ( YouTube Tutorial Included )
 </h4>
-  
-<p align="center">
+
     <a href="https://railway.app/new/template/Gts2Zx?referralCode=f3gg2m">
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
     </a>
@@ -46,11 +44,10 @@
 </p>
 <br>
       
-<h4 align="center"> Deploy on Koyeb - ( YouTube Tutorial Included )
+<h4 Deploy on Koyeb - ( YouTube Tutorial Included )
 </h4>
-      
-<p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/fantox001/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
+
+<a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/fantox001/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
