@@ -1,10 +1,13 @@
+<h1 align="center"> 〘 ᴀᴛʟᴀꜱ-ᴍᴅ 〙
+
+</h1>
+
 <p align="center">
 <a href="https://github.com/REDZEOX/Atlas-MD">
     <img src="https://i.imgur.com/MClOeqe.jpeg">
   </a>
 
-<h1 align="center"> Atlas MD
-</h1>
+
 
 <p align="center"> 
  ʜᴇʟʟᴏ ɢᴜʏ'ꜱ ʜᴀᴠᴇ ᴀ ɢᴏᴏᴅ ᴅᴀʏ ᴛʜᴇ ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ ᴡᴀꜱ ᴍᴀᴅᴇ ʙʏ ʀᴇᴅᴢᴇᴏꭗ ᴛʜᴇ ᴍᴀɪɴ ᴘᴜʀᴘᴏꜱᴇ ɪꜱ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɴᴇꭗᴛ ʟᴇᴠᴇʟ ᴄʜɪᴢᴜʀᴜ-ᴍᴅ ᴍᴜʟᴛɪᴘʟᴇ ᴅᴇᴠɪᴄᴇꜱ.
