@@ -32,7 +32,7 @@
   </a>
   <br><br>
    
-ᴅᴇᴘʟᴏʏ ᴏɴ ᴅᴀɪʟᴡᴀʏ - ( ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟ ɪɴᴄʟᴜᴅᴇᴅ )
+</p> ᴅᴇᴘʟᴏʏ ᴏɴ ᴅᴀɪʟᴡᴀʏ - ( ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟ ɪɴᴄʟᴜᴅᴇᴅ )
 
 <a href="https://railway.app/new/template/Gts2Zx?referralCode=f3gg2m">
 <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
