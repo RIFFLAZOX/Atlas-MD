@@ -8,7 +8,7 @@
 
 <p align="center"> 
  ʜᴇʟʟᴏ ɢᴜʏ'ꜱ ʜᴀᴠᴇ ᴀ ɢᴏᴏᴅ ᴅᴀʏ ᴛʜᴇ ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ ᴡᴀꜱ ᴍᴀᴅᴇ ʙʏ
-href="https://github.com/REDZEOX">ʀᴇᴅᴢᴇᴏꭗ</a>
+href="https://github.com/REDZEOX">ʀᴇᴅᴢᴇᴏꭗ</a>"
  ᴛʜᴇ ᴍᴀɪɴ ᴘᴜʀᴘᴏꜱᴇ ɪꜱ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɴᴇꭗᴛ ʟᴇᴠᴇʟ ᴄʜɪᴢᴜʀᴜ-ᴍᴅ ᴍᴜʟᴛɪᴘʟᴇ ᴅᴇᴠɪᴄᴇꜱ..
 
 <h3 align="center"> Atlas MD - The Future Is Here
