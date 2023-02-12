@@ -14,6 +14,7 @@
 <h3 align="center"> ᴀᴛʟᴀꜱ-ᴍᴅ - ᴛʜᴇ ғᴜᴛᴜʀᴇ ɪꜱ ʜᴇʀᴇ
 </h4>
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ'ᴍ+ᴀᴛʟᴀs-ᴍᴅ+ᴀɴ+ᴀɪ+ʙᴏᴛ+ᴍᴀᴅᴇ+ʙʏ+ꜱᴄᴏᴛᴄʜ.+ᴅᴇʟɪɢʜᴛ+ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴇᴠᴇʀʏᴏɴᴇ!;ʀᴇᴅᴢᴇᴏꭗ)](https://git.io/typing-svg)
 <br>
 
 <p align="center">
