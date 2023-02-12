@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/FantoX001/Atlas-MD">
+<a href="https://github.com/REDZEOX/Atlas-MD">
     <img src="https://i.imgur.com/MClOeqe.jpeg">
   </a>
 
@@ -7,7 +7,9 @@
 </h1>
 
 <p align="center"> 
- Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's possible on WhatsApp with highest features and stability built with Baileys Multi Device support.
+ ʜᴇʟʟᴏ ɢᴜʏ'ꜱ ʜᴀᴠᴇ ᴀ ɢᴏᴏᴅ ᴅᴀʏ ᴛʜᴇ ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ ᴡᴀꜱ ᴍᴀᴅᴇ ʙʏ
+href="https://github.com/REDZEOX">ʀᴇᴅᴢᴇᴏꭗ</a>
+ ᴛʜᴇ ᴍᴀɪɴ ᴘᴜʀᴘᴏꜱᴇ ɪꜱ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɴᴇꭗᴛ ʟᴇᴠᴇʟ ᴄʜɪᴢᴜʀᴜ-ᴍᴅ ᴍᴜʟᴛɪᴘʟᴇ ᴅᴇᴠɪᴄᴇꜱ..
 
 <h3 align="center"> Atlas MD - The Future Is Here
 </h4>
