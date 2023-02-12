@@ -32,7 +32,7 @@
   </a>
   <br><br>
    
-Deploy on Railway - ( YouTube Tutorial Included )
+ᴅᴇᴘʟᴏʏ ᴏɴ ᴅᴀɪʟᴡᴀʏ - ( ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟ ɪɴᴄʟᴜᴅᴇᴅ )
 
 <a href="https://railway.app/new/template/Gts2Zx?referralCode=f3gg2m">
 <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
@@ -43,7 +43,7 @@ Deploy on Railway - ( YouTube Tutorial Included )
 </p>
 <br>
       
-<h4 Deploy on Koyeb - ( YouTube Tutorial Included )
+<h4 ᴅᴇᴘʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ - ( ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟ ɪɴᴄʟᴜᴅᴇᴅ )
 </h4>
 
 <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/fantox001/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
@@ -55,20 +55,21 @@ Deploy on Railway - ( YouTube Tutorial Included )
 </p>
 <br>
       
-<h4 align="center"> Deploy on Heroku ( Isn't Working it will be fixed soon ! )
+
+ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ( ɪꜱɴ'ᴛ ᴡᴏʀᴋɪɴɢ ɪᴛ ᴡɪʟʟ ʙᴇ ғɪꭗᴇᴅ ꜱᴏᴏɴ ! )
 </h4>
       
 </p>
-<p align="center" >
+</p>
     <a href="https://heroku.com/deploy?template=https://github.com/FantoX001/Atlas-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 </p>
 <br>
-<h4 align="center"> Facing Trouble? Join my Whatsapp group for Support
+<h4 Facing Trouble? Join my Whatsapp group for Support
 </h4>
 
-<p align="center" >
+</p>
 <a href="https://chat.whatsapp.com/D4EsvpDVGJT8WbxJVlSwWn"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
