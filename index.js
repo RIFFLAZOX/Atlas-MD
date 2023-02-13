@@ -1,4 +1,3 @@
-
 require("./config.js");
 require("./Core.js");
 
