@@ -30,23 +30,17 @@
   </a>
   <br><br>
    
-ᴅᴇᴘʟᴏʏ ᴏɴ ᴅᴀɪʟᴡᴀʏ - ( ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟ ɪɴᴄʟᴜᴅᴇᴅ )
+ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ - ( ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟ ɪɴᴄʟᴜᴅᴇᴅ )
 
 <a href="https://railway.app/new/template/Gts2Zx?referralCode=f3gg2m">
 <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="150px">
 </a>
-<br>
-<a href="https://youtu.be/Qs6ryWnEtu8"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="90">
-    </a>
 </p>
 <h4 ᴅᴇᴘʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ - ( ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟ ɪɴᴄʟᴜᴅᴇᴅ )
 </h4>
 
 <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/fantox001/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="150px">
-    </a>
-   <br>     
-    <a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="90">
     </a>
 </p>
 <br>
