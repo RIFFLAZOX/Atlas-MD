@@ -23,12 +23,12 @@ Image Source: https://wallpapercave.com/
 global.charID0 = {
     botName : "Atlas MD",
     botVideo : fs.readFileSync("./Assets/atlas.mp4"),
-    botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage3 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage4 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage5 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage6 : "https://i.imgur.com/MClOeqe.jpeg",
+    botImage1 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
+    botImage2 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
+    botImage3 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
+    botImage4 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
+    botImage5 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
+    botImage6 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
 }
 
 global.charID1 = {
