@@ -244,11 +244,11 @@ textHelpMenu += `╭────ꕥ ɴꜱғᴡ ꕥ────╮
 }
           
 textHelpMenu +=`*🔰  ${botName}  🔰*
- _Powered By:_ *Team ATLAS*
-🎀 To use any of these commands type 
-" *${prefix}Command name* ".
-🏮 To get Support Group link type " *${prefix}support* ".
-🧩 To report any issues to Developer type " *${prefix}report <describe issue>* ".\n`
+ _ᴘᴏᴡᴇʀᴇᴅ ʙʏ:_ *ᴛᴇᴀᴍ ᴀᴛʟᴀꜱ*
+🎀 ᴛᴏ ᴜꜱᴇ ᴀɴʏ ᴏғ ᴛʜᴇꜱᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴛʏᴘᴇ  
+" *${prefix}ᴄᴏᴍᴍᴀɴᴅ ɴᴀᴍᴇ* ".
+🏮 ᴛᴏ ɢᴇᴛ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ ᴛʏᴘᴇ " *${prefix}ꜱᴜᴘᴘᴏʀᴛ* ".
+🧩 ᴛᴏ ʀᴇᴘᴏʀᴛ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛʏᴘᴇ " *${prefix}ʀᴇᴘᴏʀᴛ <ᴅᴇꜱᴄʀɪʙᴇ ɪꜱꜱᴜᴇ>* ".\n`
 
 let buttons = [
     {
