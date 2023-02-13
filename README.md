@@ -157,10 +157,5 @@
 
 
 
-<h2 align="center">🕯️✨ ᴍᴇᴇᴛ ᴛᴇᴀᴍ ᴀᴛʟᴀꜱ ✨🕯️
+<h2 align="center">🕯️✨ ᴛʜᴀɴᴋꜱ ᴛᴏ ғᴀɴᴛᴏꭗ ✨🕯️
 </h2>
-
-[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops) | [![Its-me-001](https://github.com/Its-me-001.png)](https://github.com/Its-me-001)
-----|----|----|----|----|----|----
-[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) |  [say.scotch](https://github.com/REDZEOX) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops) | [Its-me-001](https://github.com/Its-me-001)
-Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking | Bug Finder, Testing
