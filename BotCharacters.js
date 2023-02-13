@@ -34,11 +34,11 @@ global.charID0 = {
 global.charID1 = {
   botName : "Power MD",
   botVideo : fs.readFileSync("./Assets/power.mp4"),
-  botImage1 : "https://wallpapercave.com/wp/wp11253614.jpg",
-  botImage2 : "https://wallpapercave.com/wp/wp9413488.jpg",
-  botImage3 : "https://wallpapercave.com/wp/wp11628561.jpg",
-  botImage4 : "https://wallpapercave.com/wp/wp11733443.jpg",
-  botImage5 : "https://wallpapercave.com/wp/wp11733435.jpg",
+  botImage1 : "https://c4.wallpaperflare.com/wallpaper/960/587/732/power-chainsaw-man-chainsaw-man-manga-hd-wallpaper-preview.jpg",
+  botImage2 : "https://c4.wallpaperflare.com/wallpaper/553/511/639/chainsaw-man-power-chainsaw-man-denji-chainsaw-man-hd-wallpaper-preview.jpg",
+  botImage3 : "https://wallpapercave.com/cdn-cgi/mirage/4060d9c58e8c34505929baac680386a213cfd243a199f1ff8f223c312de6c835/1280/https://wallpapercave.com/uwp/uwp1410435.jpeg",
+  botImage4 : "https://wallpapercave.com/cdn-cgi/mirage/4060d9c58e8c34505929baac680386a213cfd243a199f1ff8f223c312de6c835/1280/https://wallpapercave.com/uwp/uwp1410368.jpeg",
+  botImage5 : "https://wallpapercave.com/cdn-cgi/mirage/4060d9c58e8c34505929baac680386a213cfd243a199f1ff8f223c312de6c835/1280/https://wallpapercave.com/uwp/uwp1410385.jpeg",
   botImage6 : "https://wallpapercave.com/wp/wp11733458.jpg",
 }
 
