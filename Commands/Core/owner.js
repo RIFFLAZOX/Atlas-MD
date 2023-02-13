@@ -10,7 +10,7 @@ module.exports = {
     alias: ["modlist","mods","mod"],
     category: "Core", 
     usage: "owner", 
-    react: "🏅", 
+    react: "👑", 
     start: async (
       Miku, 
       m, 
