@@ -145,22 +145,22 @@
 
 <br>
 
-<h2 align="center">📛 Legal Disclaimer 📛
+<h2 align="center">📛 ʟᴇɢᴀʟ ᴅɪꜱᴄʟᴀɪᴍᴇʀ 📛
 </h2>
 <br>
 
-- We suggest you to use your `Own MongoDB URL` while deploying inside `.env` or `Environment Variables`. That will increase your Privacy and Security.
-- We don't recommend to change the `Economy database` we have added inside script. `If you do so, you will be responsible for any issues and we will not provide any support`.
-- We will not be responsible for any issues caused by any individual hosting this bot and cause any harm to any Group `(So don't make someone Group Admin who you don't know just because they are hosting the Bot)`.
+- ᴡᴇ ꜱᴜɢɢᴇꜱᴛ ʏᴏᴜ ᴛᴏ ᴜꜱᴇ ʏᴏᴜʀ `ᴏᴡɴ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ` ᴡʜɪʟᴇ ᴅᴇᴘʟᴏʏɪɴɢ ɪɴꜱɪᴅᴇ `.ᴇɴᴠ` ᴏʀ `ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ᴠᴀʀɪᴀʙʟᴇꜱ`. ᴛʜᴀᴛ ᴡɪʟʟ ɪɴᴄʀᴇᴀꜱᴇ ʏᴏᴜʀ ᴘʀɪᴠᴀᴄʏ ᴀɴᴅ ꜱᴇᴄᴜʀɪᴛʏ.
+- ᴡᴇ ᴅᴏɴ'ᴛ ʀᴇᴄᴏᴍᴍᴇɴᴅ ᴛᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇ `ᴇᴄᴏɴᴏᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ` ᴡᴇ ʜᴀᴠᴇ ᴀᴅᴅᴇᴅ ɪɴꜱɪᴅᴇ ꜱᴄʀɪᴘᴛ. `ɪғ ʏᴏᴜ ᴅᴏ ꜱᴏ, ʏᴏᴜ ᴡɪʟʟ ʙᴇ ʀᴇꜱᴘᴏɴꜱɪʙʟᴇ ғᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴀɴᴅ ᴡᴇ ᴡɪʟʟ ɴᴏᴛ ᴘʀᴏᴠɪᴅᴇ ᴀɴʏ ꜱᴜᴘᴘᴏʀᴛ`.
+- ᴡᴇ ᴡɪʟʟ ɴᴏᴛ ʙᴇ ʀᴇꜱᴘᴏɴꜱɪʙʟᴇ ғᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴄᴀᴜꜱᴇᴅ ʙʏ ᴀɴʏ ɪɴᴅɪᴠɪᴅᴜᴀʟ ʜᴏꜱᴛɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ᴀɴᴅ ᴄᴀᴜꜱᴇ ᴀɴʏ ʜᴀʀᴍ ᴛᴏ ᴀɴʏ ɢʀᴏᴜᴘ `(ꜱᴏ ᴅᴏɴ'ᴛ ᴍᴀᴋᴇ ꜱᴏᴍᴇᴏɴᴇ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ ᴡʜᴏ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴊᴜꜱᴛ ʙᴇᴄᴀᴜꜱᴇ ᴛʜᴇʏ ᴀʀᴇ ʜᴏꜱᴛɪɴɢ ᴛʜᴇ ʙᴏᴛ)`.
 
 <br>
 
 
 
-<h2 align="center">🔰 Meet Team Atlas 🔰
+<h2 align="center">🕯️✨ ᴍᴇᴇᴛ ᴛᴇᴀᴍ ᴀᴛʟᴀꜱ ✨🕯️
 </h2>
 
 [![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops) | [![Its-me-001](https://github.com/Its-me-001.png)](https://github.com/Its-me-001)
 ----|----|----|----|----|----|----
-[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops) | [Its-me-001](https://github.com/Its-me-001)
+[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) |  [say.scotch](https://github.com/REDZEOX) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops) | [Its-me-001](https://github.com/Its-me-001)
 Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking | Bug Finder, Testing
