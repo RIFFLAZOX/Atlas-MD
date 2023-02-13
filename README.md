@@ -94,23 +94,23 @@
 - ʜɪɢʜᴇsᴛ ꜱᴇᴄᴜʀɪᴛʏ ᴄᴏᴍᴘᴀʀᴇᴅ ᴛᴏ ᴍᴏꜱᴛ ᴏᴛʜᴇʀ ᴘᴜʙʟɪᴄ ʙᴏᴛꜱ.
 <br>
 
-<h2 align="center">〽️ Why Should You Use Atlas as your Base 〽️
+<h2 align="center">〽️ ᴡʜʏ ꜱʜᴏᴜʟᴅ ʏᴏᴜ ᴜꜱᴇ ᴀᴛʟᴀꜱ ᴀꜱ ʏᴏᴜʀ ʙᴀꜱᴇ 〽️
 </h2>
 
 <br>
 
-- Atlas is a `fully open source` bot which means `no copyright`.
-- Atlas is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- Atlas is a `multi database bot` which means you can use 3 different databases at the same time.
-- Atlas is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Atlas has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Atlas has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
-- Atlas has 300+ commands.
-- Atlas doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
-- Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
-- Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- ᴀᴛʟᴀꜱ ɪꜱ ᴀ `ғᴜʟʟʏ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ` ʙᴏᴛ ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ `ɴᴏ ᴄᴏᴘʏʀɪɢʜᴛ`.
+- ᴀᴛʟᴀꜱ ɪꜱ ᴀ `ᴍᴜʟᴛɪ ᴄʜᴀʀᴀᴄᴛᴇʀ ʙᴏᴛ` ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ ʏᴏᴜ ᴄᴀɴ `ᴄʜᴀɴɢᴇ ʙᴏᴛ'ꜱ ᴄʜᴀʀᴀᴄᴛᴇʀ` ᴛᴏ ᴀɴʏ ᴏғ ᴛʜᴇ 8 ᴀᴅᴅᴇᴅ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ ᴏʀ ᴀᴅᴅ ᴍᴏʀᴇ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ ʙʏ ʏᴏᴜʀꜱᴇʟғ.
+- ᴀᴛʟᴀꜱ ɪꜱ ᴀ `ᴍᴜʟᴛɪ ᴅᴀᴛᴀʙᴀꜱᴇ ʙᴏᴛ` ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ 3 ᴅɪғғᴇʀᴇɴᴛ ᴅᴀᴛᴀʙᴀsᴇs ᴀᴛ ᴛʜᴇ ꜱᴀᴍᴇ ᴛɪᴍᴇ.
+- ᴀᴛʟᴀꜱ ɪꜱ ᴀ `ᴍᴜʟᴛɪ ᴍᴏᴅᴇ` ʙᴏᴛ ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ɪᴛ ɪɴ `ꜱᴇʟғ / ᴘᴜʙʟɪᴄ / ᴘʀɪᴠᴀᴛᴇ` ᴍᴏᴅᴇ.
+- ᴀᴛʟᴀꜱ ʜᴀꜱ ᴀ ᴘʀᴇ ɪɴꜱᴛᴀʟʟᴇᴅ ᴄʜᴀᴛʙᴏᴛ ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ɪᴛ ᴀꜱ ᴀ `ɢʀᴏᴜᴘ ᴄʜᴀᴛʙᴏᴛ ᴀɴᴅ ᴅᴍ ᴄʜᴀᴛʙᴏᴛ`.
+- ᴀᴛʟᴀꜱ ʜᴀꜱ `ʜɪɢʜᴇꜱᴛ ɴꜱғᴡ (100+)` ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ɪᴛ ᴀꜱ ᴀ `ɴꜱғᴡ ʙᴏᴛ`.
+- ᴀᴛʟᴀꜱ ʜᴀꜱ 300+ ᴄᴏᴍᴍᴀɴᴅꜱ.
+- ᴀᴛʟᴀꜱ ᴅᴏᴇꜱɴ'ᴛ ꜱᴛᴏʀᴇ ʏᴏᴜʀ `ꜱᴇꜱꜱɪᴏɴ ғɪʟᴇ` ʟᴏᴄᴀʟʟʏ ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ ɪᴛ'ꜱ `ꜱᴀғᴇ` ᴀɴᴅ `ꜱᴇᴄᴜʀᴇ`.
+- ᴀᴛʟᴀꜱ ʜᴀꜱ `ʀᴘɢ ᴀɴᴅ ᴇᴄᴏɴᴏᴍʏ` ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ɪᴛ ᴀꜱ ᴀ `ʀᴘɢ ʙᴏᴛ` ᴏʀ `ᴄᴀꜱɪɴᴏ ʙᴏᴛ`.
+- ᴀᴛʟᴀꜱ ʜᴀꜱ `ᴜꜱᴇʀ ʙᴀɴɴɪɴɢ / ɢʀᴏᴜᴘ ʙᴀɴɴɪɴɢ` ᴡʜɪᴄʜ ᴍᴇᴀɴs ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ɪᴛ ᴀꜱ ᴀ `ᴀɴᴛɪ ꜱᴘᴀᴍ ʙᴏᴛ`.
+- ᴀᴛʟᴀꜱ ɪꜱ ᴀ ғᴏʟᴅᴇʀ ᴛʏᴘᴇ ʙᴏᴛ ᴡʜɪᴄʜ ʀᴇᴘʀᴇꜱᴇɴᴛꜱ `ʜɪɢʜᴇꜱᴛ ꜱᴛᴀʙɪʟɪᴛʏ`, `ʜɪɢʜᴇꜱᴛ ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ` ᴀɴᴅ `ᴅᴇᴠᴇʟᴏᴘᴇʀ / ᴜꜱᴇʀ ғʀɪᴇɴᴅʟʏ`.
+- ᴀᴛʟᴀꜱ ᴄᴏᴍᴇs ᴡɪᴛʜ [ᴍɪᴛ](ʜᴛᴛᴘꜱ://ɢɪᴛʜᴜʙ.ᴄᴏᴍ/ғᴀɴᴛᴏx001/ᴀᴛʟᴀꜱ-ᴍᴅ/ʙʟᴏʙ/ᴍᴀɪɴ/ʟɪᴄᴇɴꜱᴇ.ᴍᴅ) ʟɪᴄᴇɴꜱᴇ ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ɪᴛ ᴀꜱ ᴀ `ʙᴀꜱᴇ ғᴏʀ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ` ᴀɴᴅ ᴄᴀɴ `ᴍᴏᴅɪғʏ ɪᴛ ᴀꜱ ʏᴏᴜ ᴡᴀɴᴛ` ᴀɴᴅ ᴄᴀɴ `ᴀᴅᴅ ʏᴏᴜʀ ᴏᴡɴ ғᴇᴀᴛᴜʀᴇꜱ`.
 
 <br>
 
