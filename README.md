@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/REDZEOX/Atlas-MD">
-    <img src="https://i.imgur.com/MClOeqe.jpeg">
+    <img src="https://i.ibb.co/r2dyh2S/20230213-154752.jpg">
   </a>
 
 <p align="center"> 
