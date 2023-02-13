@@ -114,134 +114,34 @@
 
 <br>
 
-<h2>💫 Project Dependencies :
+<h2>💫 ᴘʀᴏᴊᴇᴄᴛ ᴅᴇᴘᴇɴᴅᴇɴᴄɪᴇꜱ :
 </h2>
 <br>
 
-- [Baileys Library](https://github.com/adiwajshing/Baileys)
-- [Insta-Fetcher](https://github.com/Gimenz/insta-fetcher)
-- [FantoX APIs](https://fantox-api.vercel.app/)
+- [ʙᴀɪʟᴇʏꜱ ʟɪʙʀᴀʀʏ](https://github.com/adiwajshing/Baileys)
+- [ɪɴꜱᴛᴀ-ғᴇᴛᴄʜᴇʀ](https://github.com/Gimenz/insta-fetcher)
+- [ғᴀɴᴛᴏꭗ ᴀᴘɪꜱ](https://fantox-api.vercel.app/)
 
 <br>
 
-<h2 align="center">🧩 UserLand Deployment Method ( Android no root ) 🧩
+<
+<h2 align="center">🧣 ᴄᴏɴᴛʀɪʙᴜᴛᴏʀꜱ 🧣
 </h2>
 
-#### ⚜️ Download `UserLand` application from Google Play Store.
-#### ⚜️ Install `Debian` terminal in userland.
-#### ⚜️ Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
-
-</p>
-
-### UserLand commands:
+- ᴄʜᴇᴄᴋ [ᴘʀᴏᴊᴇᴄᴛ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀꜱ](ʜᴛᴛᴘs://ɢɪᴛʜᴜʙ.ᴄᴏᴍ/ғᴀɴᴛᴏx001/ᴀᴛʟᴀꜱ-ᴍᴅ/ɢʀᴀᴘʜꜱ/ᴄᴏɴᴛʀɪʙᴜᴛᴏʀꜱ)
+- ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ᴄᴏɴᴛʀɪʙᴜᴛᴇ ɪɴ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ. ɪ ᴡɪʟʟ ᴍᴇʀɢᴇ ʏᴏᴜʀ ʀᴇꜱᴘᴇᴄᴛᴇᴅ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ᴀғᴛᴇʀ ʀᴇᴠɪᴇᴡɪɴɢ ɪᴛ.
 
 
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install bash
-sudo apt-get install libwebp-dev
-sudo apt install git
-sudo apt install nodejs -y
-sudo apt install ffmpeg -y
-sudo apt install wget
-sudo apt install npm
-sudo apt install imagemagick
-
-git clone https://github.com/FantoX001/Atlas-MD
-
-ls
-cd Atlas-MD
-npm i
-
-
-cd
-npm install --global yarn
-yarn add sharp
-sudo apt install curl
-
-
-curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-
-
-sudo apt-get install -y nodejs
-yarn add sharp
-cd Atlas-MD
-npm i
-npm start
-
-``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/FantoX001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
-- This method will work on most other bots too.
-
-#### 📌 To stop a bot in Userland
-- Tap on `CTRL` button then tap on `C` from keyboard
-
-#### 📌 To start bot again ( While you are inside Atlas-MD folder {use `cd Atlas-MD` to get inside the folder} )
-- `npm start` or use `yarn start` to start bot again.
-
-
-#### 📌 Start bot after UserLand session is cleared
-```
-cd Atlas-MD
-npm start
-```
-#### 📌 What to do if you logged out from the WhatsApp linked device section and want to get new qr to login
-- Go to your GitHub fork of this bot and open `.env` file and change `SESSION_ID` to any random string and save it by clicking on `Commit Changes`.
-- Then open `UserLand` and run these commands one-by-one:
-
-```
-cd Atlas-MD
-git fetch origin
-git merge origin/main
-npm start
-```
-
-
-#### ⚜️ Note as UserLand is a physical server so you must keep on your internet connection active to make sure bot works. Otherwise bot will be down.
-<br><br>
-
-
-<h2 align="center">🧩 CMD / VS Code / Powershell / Terminal Deployment Method 🧩
-</h2>
-
-- [Download Updated code](https://github.com/FantoX001/Atlas-MD/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
-- Extract the `.zip` and open Vs code / Cmd / Powershell / Terminal in that directory and give thesse following commands one-by-one:
-- Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
-
-```
-npm i
-npm start
-```
-
-- To get new QR if you logged out from the WhatsApp linked device section go to `.env` file and change `SESSION_ID` to any random string and save it by clicking on `Commit Changes`.
-
-### ✧ Requirements for CMD/VS code istallation:
-- [Node.js](https://nodejs.org/en/download/)
-- [Git](https://github.com/git-guides/install-git)
-- FFmpeg ( [for Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/) or [for Linux](https://www.tecmint.com/install-ffmpeg-in-linux/) or [for Mac](https://ffmpeg.org/download.html) )
-- Libwebp (Not necesary for Windows).
-
-Note: If you don't pre-install these plugins before CMD / VS code Installation bot will not start!
-</br> 
-
-<h2 align="center">🧣 Contributors 🧣
-</h2>
-
-- Check [Project Contributors](https://github.com/FantoX001/Atlas-MD/graphs/contributors)
-- Feel free to contribute in this project. I will merge your respected contribution after reviewing it.
-
-
-<h2 align="center">⚠️ Warning ⚠️
+<h2 align="center">⚠️ ᴡᴀʀɴɪɴɢ ⚠️
 </h2>
 
 <br>
 
-- This bot is not made by WhatsApp.inc so overusing this bot may result in WhatsApp account ban.
-- We will only assist you in `Bot Deployment ( Installation or Hosting )`. Not in `Bot Development`.
-- If you Modify this bot and face any issues, I am not responsible for that because it's not possible for me or my team to help everyone in bot Development / Modification. Only modify if you know what you are doing.
-- This bot is made for `Educational / Fun / Group Management` purposes only. I and the team will not be responsible for any misuse of this bot.
-- We will only assist you in `Setup / Deployment` of this bot.
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴡʜᴀᴛꜱᴀᴘᴘ.ɪɴᴄ ꜱᴏ ᴏᴠᴇʀᴜꜱɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ᴍᴀʏ ʀᴇꜱᴜʟᴛ ɪɴ ᴡʜᴀᴛꜱᴀᴘᴘ ᴀᴄᴄᴏᴜɴᴛ ʙᴀɴ.
+- ᴡᴇ ᴡɪʟʟ ᴏɴʟʏ ᴀꜱꜱɪꜱᴛ ʏᴏᴜ ɪɴ `ʙᴏᴛ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ( ɪɴꜱᴛᴀʟʟᴀᴛɪᴏɴ ᴏʀ ʜᴏꜱᴛɪɴɢ )`. ɴᴏᴛ ɪɴ `ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ`.
+- ɪғ ʏᴏᴜ ᴍᴏᴅɪғʏ ᴛʜɪꜱ ʙᴏᴛ ᴀɴᴅ ғᴀᴄᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ, ɪ ᴀᴍ ɴᴏᴛ ʀᴇꜱᴘᴏɴꜱɪʙʟᴇ ғᴏʀ ᴛʜᴀᴛ ʙᴇᴄᴀᴜꜱᴇ ɪᴛ'ꜱ ɴᴏᴛ ᴘᴏꜱꜱɪʙʟᴇ ғᴏʀ ᴍᴇ ᴏʀ ᴍʏ ᴛᴇᴀᴍ ᴛᴏ ʜᴇʟᴘ ᴇᴠᴇʀʏᴏɴᴇ ɪɴ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ / ᴍᴏᴅɪғɪᴄᴀᴛɪᴏɴ. ᴏɴʟʏ ᴍᴏᴅɪғʏ ɪғ ʏᴏᴜ ᴋɴᴏᴡ ᴡʜᴀᴛ ʏᴏᴜ ᴀʀᴇ ᴅᴏɪɴɢ.
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴍᴀᴅᴇ ғᴏʀ `ᴇᴅᴜᴄᴀᴛɪᴏɴᴀʟ / ғᴜɴ / ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ` ᴘᴜʀᴘᴏꜱᴇꜱ ᴏɴʟʏ. ɪ ᴀɴᴅ ᴛʜᴇ ᴛᴇᴀᴍ ᴡɪʟʟ ɴᴏᴛ ʙᴇ ʀᴇꜱᴘᴏɴꜱɪʙʟᴇ ғᴏʀ ᴀɴʏ ᴍɪꜱᴜꜱᴇ ᴏғ ᴛʜɪꜱ ʙᴏᴛ.
+- ᴡᴇ ᴡɪʟʟ ᴏɴʟʏ ᴀꜱꜱɪꜱᴛ ʏᴏᴜ ɪɴ `ꜱᴇᴛᴜᴘ / ᴅᴇᴘʟᴏʏᴍᴇɴᴛ` ᴏғ ᴛʜɪꜱ ʙᴏᴛ.
 
 <br>
 
