@@ -39,8 +39,6 @@
 <a href="https://youtu.be/Qs6ryWnEtu8"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="90">
     </a>
 </p>
-<br>
-      
 <h4 ᴅᴇᴘʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ - ( ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟ ɪɴᴄʟᴜᴅᴇᴅ )
 </h4>
 
