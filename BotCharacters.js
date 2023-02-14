@@ -22,7 +22,7 @@ Image Source: https://wallpapercave.com/
 
 global.charID0 = {
     botName : "Atlas MD",
-    botVideo : fs.readFileSync("./Assets/atlas.mp4"),
+    botVideo : fs.readFileSync("./Assets/REDZEOX.mp4"),
     botImage1 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
     botImage2 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
     botImage3 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
