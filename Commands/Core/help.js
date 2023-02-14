@@ -281,7 +281,7 @@ case '':
                 {buttonId: `${prefix}help`, buttonText: {displayText: '✨menu✨'}, type: 1}
                 ]
                 let buttonMessage = {
-                    video:fs.readFileSync('./Asset/REDZEOX.mp4'),gifPlayback:true,
+                    video:fs.readFileSync('./Assets/REDZEOX.mp4'),gifPlayback:true,
                     caption: needhelpmenu,
                     footer: `${global.BotName}`,
                     buttons: butRun,
