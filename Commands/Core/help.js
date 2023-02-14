@@ -252,8 +252,8 @@ textHelpMenu +=`*🔰  ${botName}  🔰*
 
 let buttons = [
     {
-      buttonId: `${prefix}repo`,
-      buttonText: { displayText: "Source Code" },
+      buttonId: `${prefix}owner`,
+      buttonText: { displayText: "🕯️✨ᴏᴡɴᴇʀ✨🕯️" },
       type: 1,
     },
   ];
