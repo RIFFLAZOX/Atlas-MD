@@ -266,27 +266,4 @@ let buttons = [
 
   await Miku.sendMessage(m.from, buttonMessage, { quoted: m });
 }
-
-case '':
-    if(isCmd){
-    if (isBan) return reply(mess.banned)	 			
-    if (isBanChat) return reply(mess.bangc)
-
-      RedzeoXpic ='https://i.ibb.co/SKNYR1K/61-sexy-rias-gremory-from-the-anime-high-school-dxd-boobs-pictures-are-here-to-take-your-breath-away.jpg'
-    
-        
- const needhelpmenu = `Do you need help ${pushname} Senpai? Type *${prefix}menu* to get my full command list.`
-     
-         let butRun = [
-                {buttonId: `${prefix}help`, buttonText: {displayText: '✨menu✨'}, type: 1}
-                ]
-                let buttonMessage = {
-                    video:fs.readFileSync('./Assets/REDZEOX.mp4'),gifPlayback:true,
-                    caption: needhelpmenu,
-                    footer: `${global.BotName}`,
-                    buttons: butRun,
-                    headerType: 4
-                }
-            RedzeoX.sendMessage(m.chat,buttonMessage,{quoted:m})
-                }
 }
