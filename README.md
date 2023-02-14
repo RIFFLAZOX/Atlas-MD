@@ -32,7 +32,7 @@
    
 • ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ - ( ʏᴏᴜᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟ ɪɴᴄʟᴜᴅᴇᴅ )
 
-<a href="https://railway.app/new/template/Gts2Zx?referralCode=f3gg2m">
+<a href="https://railway.app/new/template/n1D5wt?referralCode=nRl6ST">
 <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="150px">
 </a>
 </p>
