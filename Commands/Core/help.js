@@ -266,4 +266,5 @@ let buttons = [
 
   await Miku.sendMessage(m.from, buttonMessage, { quoted: m });
 }
+  }
 }
