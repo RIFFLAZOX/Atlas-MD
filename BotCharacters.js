@@ -7,7 +7,7 @@ const { mkchar } = require("./Database/dataschema.js");
 0 --- Atlas MD
 1 --- Power
 2 --- Makima
-3 --- Denji
+3 --- Rias Gremory
 4 --- Zero Two
 5 --- Chika
 6 --- Miku
@@ -54,8 +54,8 @@ global.charID2 = {
 }
 
 global.charID3 = {
-  botName : "Denji MD",
-  botVideo : fs.readFileSync("./Assets/denji.mp4"),
+  botName : "Rias Gremory",
+  botVideo : fs.readFileSync("./Assets/Rias.mp4"),
   botImage1 : "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/11/Chainsaw-Man-Denji-e-Power.webp?resize=1068%2C601&ssl=1",
   botImage2 : "https://images.alphacoders.com/128/1284967.jpg",
   botImage3 : "https://images.alphacoders.com/128/1286017.jpg",
