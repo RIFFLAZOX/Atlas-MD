@@ -7,7 +7,7 @@ const { mkchar } = require("./Database/dataschema.js");
 0 --- Atlas MD
 1 --- Power
 2 --- Makima
-3 --- Rias Gremory
+3 --- Denji
 4 --- Zero Two
 5 --- Chika
 6 --- Miku
