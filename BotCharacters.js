@@ -21,7 +21,7 @@ Image Source: https://wallpapercave.com/
 
 
 global.charID0 = {
-    botName : "ᴀᴛʟᴀꜱ ᴍᴅ",
+    botName : "Atlas MD",
     botVideo : fs.readFileSync("./Assets/REDZEOX.mp4"),
     botImage1 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
     botImage2 : "https://i.ibb.co/r2dyh2S/20230213-154752.jpg",
@@ -32,7 +32,7 @@ global.charID0 = {
 }
 
 global.charID1 = {
-  botName : "ᴘᴏᴡᴇʀ ᴍᴅ",
+  botName : "Power MD",
   botVideo : fs.readFileSync("./Assets/power.mp4"),
   botImage1 : "https://c4.wallpaperflare.com/wallpaper/960/587/732/power-chainsaw-man-chainsaw-man-manga-hd-wallpaper-preview.jpg",
   botImage2 : "https://c4.wallpaperflare.com/wallpaper/553/511/639/chainsaw-man-power-chainsaw-man-denji-chainsaw-man-hd-wallpaper-preview.jpg",
@@ -43,7 +43,7 @@ global.charID1 = {
 }
 
 global.charID2 = {
-  botName : "ᴍᴀᴋɪᴍᴀ ᴍᴅ",
+  botName : "Makima MD",
   botVideo : fs.readFileSync("./Assets/makima.mp4"),
   botImage1 : "https://images5.alphacoders.com/126/1264439.jpg",
   botImage2 : "https://images8.alphacoders.com/122/1227171.jpg",
@@ -54,7 +54,7 @@ global.charID2 = {
 }
 
 global.charID3 = {
-  botName : "ᴅᴇɴᴊɪ ᴍᴅ",
+  botName : "Denji MD",
   botVideo : fs.readFileSync("./Assets/denji.mp4"),
   botImage1 : "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/11/Chainsaw-Man-Denji-e-Power.webp?resize=1068%2C601&ssl=1",
   botImage2 : "https://images.alphacoders.com/128/1284967.jpg",
@@ -65,7 +65,7 @@ global.charID3 = {
 }
 
 global.charID4 = {
-  botName : "ᴢᴇʀᴏ ᴛᴡᴏ",
+  botName : "Zero Two",
   botVideo : fs.readFileSync("./Assets/zerotwo.mp4"),
   botImage1 : "https://images3.alphacoders.com/949/949253.jpg",
   botImage2 : "https://images7.alphacoders.com/898/898638.jpg",
@@ -76,7 +76,7 @@ global.charID4 = {
 }
 
 global.charID5 = {
-  botName : "ᴄʜɪᴋᴀ ᴍᴅ",
+  botName : "Chika MD",
   botVideo : fs.readFileSync("./Assets/chika.mp4"),
   botImage1 : "https://images4.alphacoders.com/100/1002134.png",
   botImage2 : "https://images4.alphacoders.com/100/1002714.jpg",
@@ -87,7 +87,7 @@ global.charID5 = {
 }
 
 global.charID6 = {
-  botName : "ᴍɪᴋᴜ ɴᴀᴋᴀɴᴏ ᴍᴅ",
+  botName : "Miku Nakano MD",
   botVideo : fs.readFileSync("./Assets/miku.mp4"),
   botImage1 : "https://wallpapercave.com/wp/wp10524580.jpg",
   botImage2 : "https://wallpapercave.com/wp/wp4828029.jpg",
@@ -98,7 +98,7 @@ global.charID6 = {
 }
 
 global.charID7 = {
-  botName : "ᴍᴀʀɪɴ ᴋɪᴛᴀɢᴀᴡᴀ ᴍᴅ",
+  botName : "Marin Kitagawa MD",
   botVideo : fs.readFileSync("./Assets/marin.mp4"),
   botImage1 : "https://images2.alphacoders.com/125/1257915.jpg",
   botImage2 : "https://wallpapercave.com/wp/wp10472356.png",
