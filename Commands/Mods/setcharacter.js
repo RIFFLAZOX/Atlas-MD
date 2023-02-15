@@ -26,16 +26,16 @@ module.exports = {
 
       await mkchar.create({id:'1', seletedCharacter: "0"});
 
-      let botNames = ['Atlas MD', 'Power MD', 'Makima MD', 'Denji MD', 'Zero Two', 'Chika MD' , 'Miku MD', 'Marin Kitagawa']
+      let botNames = ['Atlas MD', 'Power MD', 'Makima MD', 'Rias Gremory', 'Zero Two', 'Chika MD' , 'Miku MD', 'Marin Kitagawa']
       let botLogos =[
-        'https://wallpapercave.com/wp/wp5924545.jpg',
+        'https://c4.wallpaperflare.com/wallpaper/523/235/790/anime-anime-girls-red-eyes-wallpaper-preview.jpg',
         'https://wallpapercave.com/wp/wp11253614.jpg',
         'https://images5.alphacoders.com/126/1264439.jpg',
-        'https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/11/Chainsaw-Man-Denji-e-Power.webp?resize=1068%2C601&ssl=1',
+        'https://c4.wallpaperflare.com/wallpaper/280/659/612/highschool-dxd-gremory-rias-wallpaper-preview.jpg',
         'https://images3.alphacoders.com/949/949253.jpg',
         'https://images4.alphacoders.com/100/1002134.png',
-        'https://wallpapercave.com/wp/wp10524580.jpg',
-        'https://images2.alphacoders.com/125/1257915.jpg'
+        'https://wallpapercave.com/cdn-cgi/mirage/4060d9c58e8c34505929baac680386a213cfd243a199f1ff8f223c312de6c835/1280/https://wallpapercave.com/wp/wp10524620.jpg',
+        'https://wallpapercave.com/cdn-cgi/mirage/4060d9c58e8c34505929baac680386a213cfd243a199f1ff8f223c312de6c835/1280/https://wallpapercave.com/uwp/uwp1895868.png'
       ]
 
       await mkchar.findOne({id:'1'}).then(async (charInfo) => {
