@@ -1,4 +1,4 @@
-/* const axios = require('axios')
+const axios = require('axios')
 const fs = require('fs')
 
 module.exports = {
@@ -15,4 +15,4 @@ module.exports = {
         await Miku.sendMessage(m.from,{image:picURL, caption:txt},{quoted:m});
     }
 }
-*/
+
