@@ -54,8 +54,8 @@ global.charID2 = {
 }
 
 global.charID3 = {
-  botName : "ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ ᴍᴅ",
-  botVideo : fs.readFileSync("./Assets/Rias.mp4"),
+  botName : "ᴅᴇɴᴊɪ ᴍᴅ",
+  botVideo : fs.readFileSync("./Assets/denji.mp4"),
   botImage1 : "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/11/Chainsaw-Man-Denji-e-Power.webp?resize=1068%2C601&ssl=1",
   botImage2 : "https://images.alphacoders.com/128/1284967.jpg",
   botImage3 : "https://images.alphacoders.com/128/1286017.jpg",
