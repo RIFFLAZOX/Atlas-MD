@@ -9,7 +9,7 @@ module.exports = {
     let txt = `       『  *Bot Character list*  』\n\n\n_0 - Atlas MD_\n\n_1 - Power MD_\n\n_2 - Makima MD_\n\n_3 - Rias Gremory_\n\n_4 - Zero Two_\n\n_5 - Chika MD_\n\n_6 - Miku MD_\n\n_7 - Marin Kitagawa_\n\n\nExample: *${prefix}setchar 0*\n`;
 
     let botLogos = [
-      "https://wallpapercave.com/wp/wp5924545.jpg",
+      "https://wallpapercave.com/cdn-cgi/mirage/4060d9c58e8c34505929baac680386a213cfd243a199f1ff8f223c312de6c835/1280/https://wallpapercave.com/wp/wp11253602.jpg",
       "https://wallpapercave.com/wp/wp11253614.jpg",
       "https://images5.alphacoders.com/126/1264439.jpg",
       "https://c4.wallpaperflare.com/wallpaper/280/659/612/highschool-dxd-gremory-rias-wallpaper-preview.jpg",
