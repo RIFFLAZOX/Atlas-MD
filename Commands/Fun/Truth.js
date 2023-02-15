@@ -78,7 +78,7 @@ module.exports = {
                  "Mention the incident that makes you hurt that you still remember",
                  "what achievements have you got this year?",
                  "what was your worst habit at school?",
-                 "do you love the bot creator Fantox?",
+                 "do you love the bot creator Scotch?",
                  "have you ever thought of taking revenge from ur teacher?",
                  "do you like current prime minister of ur country",
                  "you non veg or veg",
@@ -96,7 +96,7 @@ module.exports = {
                  "What is the biggest lie you ever told your parents",
                  "Who is your celebrity crush",
                  "Whats the strangest dream you have ever had",
-                 "do you play pubg, if you then send ur id number"
+                 "do you play pubg, freefire if you then send ur id number"
 ]
     const dey = shibam[Math.floor(Math.random() * shibam.length)]
     
