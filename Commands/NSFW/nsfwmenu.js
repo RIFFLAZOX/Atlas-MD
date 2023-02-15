@@ -4,7 +4,7 @@ module.exports = {
     desc: "Get full NSFW List", 
     category: "Nsfw",
     usage: `hmaid`,
-    react: "🍁",
+    react: "🥵",
     start: async (Miku, m, { prefix,NSFWstatus }) => {
   
       if (NSFWstatus == "false") return m.reply(`This group is not NSFW enabled!\n\nTo configure NSFW mode, type:\n\n*${prefix}nsfw*`);
