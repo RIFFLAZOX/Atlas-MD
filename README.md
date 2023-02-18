@@ -44,7 +44,15 @@
     </a>
 </p>
 <br>
-      
+  
+   <a href="https://repl.it/github/REDZEOX/Atlas-MD">
+
+    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="150px" alt="Deploy on Heroku" >
+
+    </a>
+
+    <br> 
+    
 • ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ( ɪꜱɴ'ᴛ ᴡᴏʀᴋɪɴɢ ɪᴛ ᴡɪʟʟ ʙᴇ ғɪꭗᴇᴅ ꜱᴏᴏɴ ! )
 </h4>
       
